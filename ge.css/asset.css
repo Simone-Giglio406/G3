@@ -5,3 +5,9 @@ margin-left: auto;
 margin-right: auto;
 width: 50;
 }
+body {
+    text-align: center;
+    margin-left: 20;
+    margin-right: 20;
+    
+}
